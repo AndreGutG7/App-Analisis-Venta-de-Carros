@@ -6,3 +6,6 @@ Este proyecto es una aplicación interactiva construida con Streamlit que permit
 1. Visualización de histogramas de kilometraje.
 2. Gráficos de dispersión para analizar precios vs. años.
 3. Desplegado en vivo en Render.
+
+Puedes acceder a la aplicación aquí:
+[Ver aplicación](https://app-analisis-venta-de-carros-andrea.onrender.com/)
